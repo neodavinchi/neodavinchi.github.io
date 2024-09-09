@@ -1,6 +1,5 @@
 # neodavinchi.github.io
-Самореализация: системный подход
+Sample
 + 1
 + 2
-+ 3 [new](folder/1.md)
-+ 4
++ 3 
